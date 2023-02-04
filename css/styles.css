@@ -178,6 +178,9 @@ hr{
 
   .para{
     margin-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: #40514e;
+    font-size: 18px;
   }
 
   .copy-rights{
