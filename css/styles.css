@@ -4,6 +4,11 @@ a{
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
+
+.contact-me{
+    width: 30%;
+    margin: auto;
+}
 div{
     
     margin-top: 0;
@@ -24,7 +29,7 @@ div{
 
 .bio{
     width: 50%;
-    margin:auto 25% ;
+    margin:auto;
     line-height: 2
     ;
 
@@ -91,6 +96,8 @@ body{
 h2{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    width: auto;
     
 }
 
@@ -177,13 +184,14 @@ hr{
   }
 
   .para{
-    margin-bottom: 50px;
     font-family: 'Roboto', sans-serif;
     color: #40514e;
-    font-size: 18px;
+    margin-bottom: 50px;
+    
   }
 
   .copy-rights{
-    font-size: 80%;
+    width: 30%;
+    margin: auto;
     margin-top: 70px;
   }
